@@ -1,0 +1,24 @@
+2021-03-17 16:06:17.286 [main] INFO  calculator.Calculator - [SQ ROOT] - 6.0
+2021-03-17 16:06:17.290 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.449489742783178
+2021-03-17 16:06:17.290 [main] INFO  calculator.Calculator - [SQ ROOT] - 8.0
+2021-03-17 16:06:17.291 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.8284271247461903
+2021-03-17 16:06:17.292 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 16:06:17.292 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 16:06:17.293 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2021-03-17 16:06:17.293 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2021-03-17 16:06:17.295 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2021-03-17 16:06:17.295 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2021-03-17 16:06:17.296 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 4.0
+2021-03-17 16:06:17.296 [main] INFO  calculator.Calculator - [RESULT - POWER] - 16.0
+2021-03-17 16:06:17.297 [main] INFO  calculator.Calculator - [POWER - 3.0 RAISED TO] 3.0
+2021-03-17 16:06:17.298 [main] INFO  calculator.Calculator - [RESULT - POWER] - 27.0
+2021-03-17 16:06:17.298 [main] INFO  calculator.Calculator - [POWER - 5.0 RAISED TO] 3.0
+2021-03-17 16:06:17.299 [main] INFO  calculator.Calculator - [RESULT - POWER] - 125.0
+2021-03-17 16:06:17.300 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.9
+2021-03-17 16:06:17.300 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.0647107369924282
+2021-03-17 16:06:17.301 [main] INFO  calculator.Calculator - [NATURAL LOG] - 3.2
+2021-03-17 16:06:17.301 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.1631508098056809
+2021-03-17 16:06:17.302 [main] INFO  calculator.Calculator - [SQ ROOT] - 25.0
+2021-03-17 16:06:17.302 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 5.0
+2021-03-17 16:06:17.303 [main] INFO  calculator.Calculator - [SQ ROOT] - 16.0
+2021-03-17 16:06:17.303 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 4.0
