@@ -1,0 +1,13 @@
+---
+- name: Pull and Run docker image
+  hosts: all
+  tasks:
+    - name: Pull akhilj01/calculator
+      docker_image:
+        name: akhilj01/calculator
+        #source: pull
+#    - name: Copy jar file to home directory
+#      copy:
+#        src: ./target/Lab3Junit-1.0-SNAPSHOT.jar
+#        dest: ~/
+#        mode: '0755'
